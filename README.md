@@ -1,8 +1,8 @@
-# Pre-work - *Name of App Here*
+# Pre-work - *TipSplit*
 
-**Name of your app** is a tip calculator application for iOS.
+**TipSplit** is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: **HouyHour Ung**
 
 Time spent: **X** hours spent in total
 
@@ -10,8 +10,8 @@ Time spent: **X** hours spent in total
 
 The following **required** functionality is complete:
 
-* [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
-* [ ] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
+* [X] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [X] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
 
 The following **optional** features are implemented:
 
@@ -23,12 +23,13 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality!
+- User can split between a maximum of 100 people based on the entered amount of bill
+- Improved on UI of the app by having minimal design as possible 
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](https://i.imgur.com/PwH9Nc2.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -38,7 +39,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2021] [HouyHour Ung]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
